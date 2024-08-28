@@ -1,0 +1,20 @@
+# Ignore log files
+*.log
+
+# Ignore all .env files
+.env
+
+#ingore images
+*.png
+*.jpg
+*.jpeg
+
+#ignore dataframes
+*.csv
+*.xlsx
+*.xls
+
+
+
+
+
